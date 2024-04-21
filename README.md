@@ -7,4 +7,5 @@ using the [Pytrend library](https://pypi.org/project/pytrends/). Before this per
 
 The search keyword is a trending topic in Nigeria due to a series of insurgencies and banditry attacks perpetrated in several regions of the Country. So I decided to play around with this data and replicate the work of **Lisa** with some slight tweaks.
 
-![kidnapping-google-search-trends-NG-2010-2024](https://github.com/eluseful/Visualizing-Google-Searches-on-KIDNAPPING-in-Nigeria/assets/16994659/025e6bbc-9a19-449a-b31b-4ca41f4ad0ed)
+![kidnapping-google-search-trends-NG-2010-2024](https://github.com/eluseful/Visualizing-Google-Searches-on-KIDNAPPING-in-Nigeria/assets/16994659/025e6bbc-9a19-449a-b31b-4ca41f4ad0ed)/
+
